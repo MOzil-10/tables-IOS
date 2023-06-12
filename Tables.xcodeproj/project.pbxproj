@@ -13,6 +13,7 @@
 		4D4BCB822A1CC20300BAC303 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4BCB802A1CC20300BAC303 /* Main.storyboard */; };
 		4D4BCB842A1CC20500BAC303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D4BCB832A1CC20500BAC303 /* Assets.xcassets */; };
 		4D4BCB872A1CC20500BAC303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4BCB852A1CC20500BAC303 /* LaunchScreen.storyboard */; };
+		4D4BCB912A1CC2E900BAC303 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4BCB902A1CC2E900BAC303 /* CustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4D4BCB832A1CC20500BAC303 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D4BCB862A1CC20500BAC303 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D4BCB882A1CC20500BAC303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D4BCB902A1CC2E900BAC303 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				4D4BCB7C2A1CC20300BAC303 /* SceneDelegate.swift */,
 				4D4BCB7E2A1CC20300BAC303 /* ViewController.swift */,
 				4D4BCB802A1CC20300BAC303 /* Main.storyboard */,
+				4D4BCB902A1CC2E900BAC303 /* CustomCell.swift */,
 				4D4BCB832A1CC20500BAC303 /* Assets.xcassets */,
 				4D4BCB852A1CC20500BAC303 /* LaunchScreen.storyboard */,
 				4D4BCB882A1CC20500BAC303 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				4D4BCB7F2A1CC20300BAC303 /* ViewController.swift in Sources */,
 				4D4BCB7B2A1CC20300BAC303 /* AppDelegate.swift in Sources */,
+				4D4BCB912A1CC2E900BAC303 /* CustomCell.swift in Sources */,
 				4D4BCB7D2A1CC20300BAC303 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
